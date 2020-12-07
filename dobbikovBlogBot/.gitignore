@@ -1,5 +1,5 @@
-﻿./bin
-./bin/*
+﻿./dobbikovBlogBot/bin
+./dobbikovBlogBot/bin/*
 
-./obj
-./obj/*
+./dobbikovBlogBot/obj
+./dobbikovBlogBot/obj/*
