@@ -1,0 +1,16 @@
+C:\Users\DobbiKov\source\repos\dobbikovBlogBot\dobbikovBlogBot\bin\Debug\netcoreapp3.1\dobbikovBlogBot.exe
+C:\Users\DobbiKov\source\repos\dobbikovBlogBot\dobbikovBlogBot\obj\Debug\netcoreapp3.1\dobbikovBlogBot.csprojAssemblyReference.cache
+C:\Users\DobbiKov\source\repos\dobbikovBlogBot\dobbikovBlogBot\obj\Debug\netcoreapp3.1\dobbikovBlogBot.AssemblyInfoInputs.cache
+C:\Users\DobbiKov\source\repos\dobbikovBlogBot\dobbikovBlogBot\obj\Debug\netcoreapp3.1\dobbikovBlogBot.AssemblyInfo.cs
+C:\Users\DobbiKov\source\repos\dobbikovBlogBot\dobbikovBlogBot\bin\Debug\netcoreapp3.1\dobbikovBlogBot.deps.json
+C:\Users\DobbiKov\source\repos\dobbikovBlogBot\dobbikovBlogBot\bin\Debug\netcoreapp3.1\dobbikovBlogBot.runtimeconfig.json
+C:\Users\DobbiKov\source\repos\dobbikovBlogBot\dobbikovBlogBot\bin\Debug\netcoreapp3.1\dobbikovBlogBot.runtimeconfig.dev.json
+C:\Users\DobbiKov\source\repos\dobbikovBlogBot\dobbikovBlogBot\bin\Debug\netcoreapp3.1\dobbikovBlogBot.dll
+C:\Users\DobbiKov\source\repos\dobbikovBlogBot\dobbikovBlogBot\bin\Debug\netcoreapp3.1\dobbikovBlogBot.pdb
+C:\Users\DobbiKov\source\repos\dobbikovBlogBot\dobbikovBlogBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\DobbiKov\source\repos\dobbikovBlogBot\dobbikovBlogBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\DobbiKov\source\repos\dobbikovBlogBot\dobbikovBlogBot\obj\Debug\netcoreapp3.1\dobbikovBlogBot.csproj.CoreCompileInputs.cache
+C:\Users\DobbiKov\source\repos\dobbikovBlogBot\dobbikovBlogBot\obj\Debug\netcoreapp3.1\dobbikovBlogBot.csproj.CopyComplete
+C:\Users\DobbiKov\source\repos\dobbikovBlogBot\dobbikovBlogBot\obj\Debug\netcoreapp3.1\dobbikovBlogBot.dll
+C:\Users\DobbiKov\source\repos\dobbikovBlogBot\dobbikovBlogBot\obj\Debug\netcoreapp3.1\dobbikovBlogBot.pdb
+C:\Users\DobbiKov\source\repos\dobbikovBlogBot\dobbikovBlogBot\obj\Debug\netcoreapp3.1\dobbikovBlogBot.genruntimeconfig.cache
