@@ -20,6 +20,7 @@ namespace dobbikovBlogBot
             commands.Add(new GetMyIdCommand());
             commands.Add(new SendMessageToDeveloperCommand());
             commands.Add(new CoronavirusUnkraineCommand());
+            commands.Add(new ClashRoyaleCommand());
 
             client.StartReceiving();
             Console.WriteLine("Bot started.");
