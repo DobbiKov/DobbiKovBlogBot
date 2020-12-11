@@ -11,5 +11,6 @@ namespace dobbikovBlogBot
         public static string TelegramChannelForLoggingId { get; private set; } = "-1001207173280";
         public static string TelegramChannelMessageToDeveloperId { get; private set; } = "-1001159031009";
         public static string Snusarnia { get; private set; } = "-1001204073200";
+        public static string Priton { get; private set; } = "-1001293169329";
     }
 }
