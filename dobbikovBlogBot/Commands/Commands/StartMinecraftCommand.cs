@@ -13,15 +13,9 @@ namespace dobbikovBlogBot.Commands.Commands
 
         public async override void Execute(Message message, TelegramBotClient client)
         {
-            string path = "/root/SHmine/start.sh";
-            try
-            {
+            string path = "start.sh";
                 Process.Start(path);
-            }
-            catch { 
-
-            }
-            await client.SendTextMessageAsync(message.Chat.Id, "Вы остановили майнкрафт сервер SHmine.");
+            await client.SendTextMessageAsync(message.Chat.Id, "Вы запустили майнкрафт сервер SHmine.");
         }
     }
 }

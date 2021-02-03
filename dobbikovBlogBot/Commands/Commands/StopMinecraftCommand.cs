@@ -13,7 +13,7 @@ namespace dobbikovBlogBot.Commands.Commands
 
         public async override void Execute(Message message, TelegramBotClient client)
         {
-            string path = "/root/SHmine/stop.sh";
+            string path = "stop.sh";
             try
             {
                 Process.Start(path);
