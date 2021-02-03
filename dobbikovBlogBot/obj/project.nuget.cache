@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ivu0+UPzqKzC2gJvGaURWsvFlNwlZ4PpUzHWQMMlIqL1tanrjT/odHe4GDWs9lUzSBbbHWMpUonMYyAcu4gVGw==",
+  "dgSpecHash": "MRqbXRh50wTdh4wNeoAqJWfz25EAc+qatcZ3w4K/smYj1XFMGY26/0mCS8/2cPawdc7dc0+BQr6ODzdiTnGfVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\DobbiKov\\source\\repos\\dobbikovBlogBot\\dobbikovBlogBot\\dobbikovBlogBot.csproj",
+  "projectFilePath": "C:\\Егор\\работа\\programming\\progr\\projects\\dobbikovBlogBot\\dobbikovBlogBot\\dobbikovBlogBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DobbiKov\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\DobbiKov\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",

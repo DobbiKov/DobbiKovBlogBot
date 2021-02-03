@@ -1,26 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DobbiKov\\source\\repos\\dobbikovBlogBot\\dobbikovBlogBot\\dobbikovBlogBot.csproj": {}
+    "C:\\Егор\\работа\\programming\\progr\\projects\\dobbikovBlogBot\\dobbikovBlogBot\\dobbikovBlogBot.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DobbiKov\\source\\repos\\dobbikovBlogBot\\dobbikovBlogBot\\dobbikovBlogBot.csproj": {
+    "C:\\Егор\\работа\\programming\\progr\\projects\\dobbikovBlogBot\\dobbikovBlogBot\\dobbikovBlogBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DobbiKov\\source\\repos\\dobbikovBlogBot\\dobbikovBlogBot\\dobbikovBlogBot.csproj",
+        "projectUniqueName": "C:\\Егор\\работа\\programming\\progr\\projects\\dobbikovBlogBot\\dobbikovBlogBot\\dobbikovBlogBot.csproj",
         "projectName": "dobbikovBlogBot",
-        "projectPath": "C:\\Users\\DobbiKov\\source\\repos\\dobbikovBlogBot\\dobbikovBlogBot\\dobbikovBlogBot.csproj",
+        "projectPath": "C:\\Егор\\работа\\programming\\progr\\projects\\dobbikovBlogBot\\dobbikovBlogBot\\dobbikovBlogBot.csproj",
         "packagesPath": "C:\\Users\\DobbiKov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DobbiKov\\source\\repos\\dobbikovBlogBot\\dobbikovBlogBot\\obj\\",
+        "outputPath": "C:\\Егор\\работа\\programming\\progr\\projects\\dobbikovBlogBot\\dobbikovBlogBot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\DobbiKov\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

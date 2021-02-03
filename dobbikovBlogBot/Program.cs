@@ -22,6 +22,8 @@ namespace dobbikovBlogBot
             commands.Add(new CoronavirusUnkraineCommand());
             commands.Add(new RandomCommand());
             commands.Add(new ClashRoyaleCommand());
+            commands.Add(new StartMinecraftCommand());
+            commands.Add(new StopMinecraftCommand());
 
             client.StartReceiving();
             Console.WriteLine("Bot started.");
