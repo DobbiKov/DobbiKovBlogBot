@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "BOzXCS4ZCy0UkE0SrBCngredlXjOF2I3BNvjOAw23r3Vln6tUQ63RBu5o1NORCSR0RAralGXJXDQQrQ4/xXAYQ==",
+  "dgSpecHash": "MRqbXRh50wTdh4wNeoAqJWfz25EAc+qatcZ3w4K/smYj1XFMGY26/0mCS8/2cPawdc7dc0+BQr6ODzdiTnGfVQ==",
   "success": true,
   "projectFilePath": "C:\\Егор\\работа\\programming\\progr\\projects\\dobbikovBlogBot\\dobbikovBlogBot\\dobbikovBlogBot.csproj",
   "expectedPackageFiles": [
@@ -80,9 +80,7 @@
     "C:\\Users\\DobbiKov\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\DobbiKov\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\DobbiKov\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\DobbiKov\\.nuget\\packages\\telegram.bot\\15.7.1\\telegram.bot.15.7.1.nupkg.sha512",
-    "C:\\Users\\DobbiKov\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512",
-    "C:\\Users\\DobbiKov\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.7\\microsoft.netcore.app.host.win-x64.3.1.7.nupkg.sha512"
+    "C:\\Users\\DobbiKov\\.nuget\\packages\\telegram.bot\\15.7.1\\telegram.bot.15.7.1.nupkg.sha512"
   ],
   "logs": []
 }

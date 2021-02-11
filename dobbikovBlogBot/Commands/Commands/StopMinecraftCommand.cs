@@ -14,14 +14,7 @@ namespace dobbikovBlogBot.Commands.Commands
         public async override void Execute(Message message, TelegramBotClient client)
         {
             string path = "stop.sh";
-            try
-            {
                 Process.Start(path);
-            }
-            catch 
-            {
-                //
-            }
             await client.SendTextMessageAsync(message.Chat.Id, "Вы остановили майнкрафт сервер SHmine.");
         }
     }

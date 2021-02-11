@@ -24,6 +24,7 @@ namespace dobbikovBlogBot
             commands.Add(new ClashRoyaleCommand());
             commands.Add(new StartMinecraftCommand());
             commands.Add(new StopMinecraftCommand());
+            commands.Add(new EggCommand());
 
             client.StartReceiving();
             Console.WriteLine("Bot started.");
