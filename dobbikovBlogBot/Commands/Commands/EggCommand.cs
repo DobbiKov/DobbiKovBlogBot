@@ -15,8 +15,8 @@ namespace dobbikovBlogBot.Commands.Commands
         {
             InputOnlineFile EggPhoto1 = new InputOnlineFile("https://imgur.com/a/TvCRdSU");
             InputOnlineFile EggPhoto2 = new InputOnlineFile("https://imgur.com/a/YUtnEgL");
-            await client.SendPhotoAsync(message.From.Id, EggPhoto1);
-            await client.SendPhotoAsync(message.From.Id, EggPhoto2);
+            await client.SendPhotoAsync(message.Chat.Id, EggPhoto1);
+            await client.SendPhotoAsync(message.Chat.Id, EggPhoto2);
         }
     }
 }
