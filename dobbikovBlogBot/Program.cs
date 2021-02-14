@@ -1,4 +1,5 @@
-﻿using dobbikovBlogBot.Commands.Commands;
+﻿using dobbikovBlogBot.Commands;
+using dobbikovBlogBot.Commands.Commands;
 using System;
 using System.Collections.Generic;
 using Telegram.Bot;
@@ -48,6 +49,11 @@ namespace dobbikovBlogBot
                         comm.Execute(message, client);
                         break;
                     }
+                }
+                var rofl_comm = RoflCommands.Contains(message.Text);
+                if (rofl_comm != -1)
+                {
+                    RoflCommands.Execute(message, client, rofl_comm);
                 }
             }
         }
