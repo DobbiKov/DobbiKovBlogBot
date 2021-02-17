@@ -33,4 +33,4 @@ jobs:
       run: dotnet build --no-restore
     # Deploy
     - name: Deploy
-      run: cd bin/Release/netcoreapp3.1/publish && rsync -e "ssh -i $HOME/.ssh/key -o StrictHostKeyChecking=no" --archive --compress --delete . root@185.206.212.246:/root/dobbikovBlogBot/
+      run: cd dobbikovBlogBot/bin/Release/netcoreapp3.1/publish && rsync -e "ssh -i $HOME/.ssh/key -o StrictHostKeyChecking=no" --archive --compress --delete . root@185.206.212.246:/root/dobbikovBlogBot/
