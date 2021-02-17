@@ -60,7 +60,7 @@ namespace dobbikovBlogBot
 
         private static async void LogToTelegramChannel(Message message)
         {
-            await client.SendTextMessageAsync(Int64.Parse(Config.TelegramChannelForLoggingId), $"[BOT]: New mess: chatID:{message.Chat.Id}, [{message.From.FirstName} {message.From.LastName} ({message.From.Username})]: {message.Text}");
+            await client.SendTextMessageAsync(Int64.Parse(Config.TelegramChannelForLoggingId), $"[BOT]: New message: chatID:{message.Chat.Id}, [{message.From.FirstName} {message.From.LastName} ({message.From.Username})]: {message.Text}");
         }
     }
 }
