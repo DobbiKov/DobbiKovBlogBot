@@ -1,10 +1,10 @@
 # DobbiKov Telegram Bot
 
 ![issues](https://img.shields.io/github/issues/DobbiKov/DobbiKovBlogBot)
-![forks](GitHub forks badge	https://img.shields.io/github/forks/DobbiKov/DobbiKovBlogBot)
-![stars](GitHub stars badge	https://img.shields.io/github/stars/DobbiKov/DobbiKovBlogBot)
-![license](GitHub license badge	https://img.shields.io/github/license/DobbiKov/DobbiKovBlogBot)
-![Twitter](Twitter badge	https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FDobbiKov%2FDobbiKovBlogBot)
+![forks](https://img.shields.io/github/forks/DobbiKov/DobbiKovBlogBot)
+![stars](https://img.shields.io/github/stars/DobbiKov/DobbiKovBlogBot)
+![license](https://img.shields.io/github/license/DobbiKov/DobbiKovBlogBot)
+![Twitter](https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2FDobbiKov%2FDobbiKovBlogBot)
 
 Developer: [Roman Zapotockiy](https://t.me/dobbi_crmp) **(dobbikov)**
 
